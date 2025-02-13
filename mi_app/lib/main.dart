@@ -23,12 +23,12 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('probando app navaja'),
-        backgroundColor: Colors.red,
+        title: Text('hola nava'),
+        backgroundColor: Colors.blue
       ),
       body: Center(
         child: Text(
-          '¡Hola, eliseo!',
+          '¡Hola,maria jajajaj!',
           style: TextStyle(fontSize: 24),
         ),
       ),

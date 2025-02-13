@@ -16,7 +16,7 @@ RUN curl -LO https://storage.googleapis.com/flutter_infra_release/releases/stabl
     mv flutter /usr/local/flutter
 
 # Agregar Flutter al PATH
-ENV PATH="/usr/local/flutter/bin:${PATH}"
+ENV PATH="/workspaces/flutternava/flutter/bin:${PATH}"
 
 # Ejecutar flutter doctor para completar la instalación
 RUN flutter doctor
