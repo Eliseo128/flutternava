@@ -1,1 +1,18 @@
 flutter_linux_3.3.10-stable.tar.xz
+
+# Ignorar archivos y carpetas generados por Flutter
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub/
+.idea/
+.vscode/
+*.iml
+
+# Ignorar archivos de configuración del sistema operativo
+.DS_Store
+*.log
+*.tmp
+*.swp
