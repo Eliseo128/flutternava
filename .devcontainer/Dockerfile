@@ -1,4 +1,4 @@
-// filepath: /workspaces/flutternava/.devcontainer/Dockerfile
+# filepath: /workspaces/flutternava/.devcontainer/Dockerfile
 FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu
 
 # Instalar dependencias necesarias
