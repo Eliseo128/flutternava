@@ -7,7 +7,11 @@ build/
 .packages
 .pub-cache
 .pub/
+.dart_tool/
 .idea/
+linux/
+macos/
+windows/
 .vscode/
 *.iml
 
